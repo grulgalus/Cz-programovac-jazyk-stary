@@ -1,3 +1,5 @@
+### TOTO JE STARÁ VERRZE BĚŽTE NA MŮJ PROFIL A NEJDE TE SI NOVOU VERZI TOTA SE NEBUDE AKTUALIZOVAT NA FURT!!!!!
+
 # cz++ IDE
 
 ![cz++ Logo](czpp_logo.png)
